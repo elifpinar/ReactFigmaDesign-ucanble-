@@ -1,0 +1,2554 @@
+{
+  "bloklar": [
+    {
+      "blok_no": "1",
+      "katlar": [
+        {
+          "kat_no": "1",
+          "odalar": [
+            {
+              "oda_no": "101",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "2",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "102",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "3",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "103",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "4",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "104",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "5",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "105",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "6",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "106",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "107",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "108",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "109",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "110",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "111",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "112",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "113",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "114",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "115",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "116",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "117",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "118",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "119",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "120",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "121",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "122",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "123",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "124",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "125",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "126",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "127",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "128",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "129",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "130",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "131",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "132",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "133",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "134",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "135",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "136",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "137",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "138",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "139",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "140",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kat_no": "2",
+          "odalar": [
+            {
+              "oda_no": "201",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "202",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "203",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "204",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "205",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "206",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "207",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "208",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "209",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "210",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "211",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "212",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "213",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "214",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "215",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "216",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "217",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "218",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "219",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "220",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "221",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "222",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "223",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "224",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "225",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "226",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "227",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "228",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "229",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "230",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blok_no": "2",
+      "katlar": [
+        {
+          "kat_no": "1",
+          "odalar": [
+            {
+              "oda_no": "101",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "102",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "103",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "104",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "105",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "106",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "107",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "108",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "109",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "110",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "111",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "112",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "113",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "114",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "115",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "116",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "117",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "118",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "119",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "120",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "121",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "122",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "123",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "124",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "125",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "126",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "127",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "128",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "129",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "130",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "131",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "132",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "133",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "134",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "135",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "136",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "137",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "138",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "139",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "140",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kat_no": "2",
+          "odalar": [
+            {
+              "oda_no": "201",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "202",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "203",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "204",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "205",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "206",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "207",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "208",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "209",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "210",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "211",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "212",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "213",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "214",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "215",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "216",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "217",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "218",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "219",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "220",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "221",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "222",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "223",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "224",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "0",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "3",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "225",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "226",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "0",
+                  "isLndActive": "0",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "227",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "1",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "228",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "0",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "1",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            },
+            {
+              "oda_no": "229",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "1",
+                  "isHvacActive": "1",
+                  "isDndActive": "0",
+                  "isLndActive": "1",
+                  "isMurActive": "1",
+                  "isLndDelayed": "1",
+                  "isMurDelayed": "0",
+                  "anySensorFault": "0",
+                  "isHKinRoom": "0",
+                  "occupiedStatus": "0",
+                  "rentedStatus": "1"
+                }
+              ]
+            },
+            {
+              "oda_no": "230",
+              "roomStatus": [
+                {
+                  "isAnyLightingActive": "0",
+                  "isHvacActive": "2",
+                  "isDndActive": "1",
+                  "isLndActive": "0",
+                  "isMurActive": "0",
+                  "isLndDelayed": "0",
+                  "isMurDelayed": "1",
+                  "anySensorFault": "2",
+                  "isHKinRoom": "1",
+                  "occupiedStatus": "1",
+                  "rentedStatus": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

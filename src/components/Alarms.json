@@ -1,0 +1,50 @@
+{
+    "occupancyRate": {
+      "rentedOccupied": 53,
+      "rentedVacant": 25,
+      "odaSayisi": 100,
+      "unrented":22
+
+    },
+    "serviceRequest": {
+      "murNumber": 25,
+      "murOverdue": 4,
+      "murInProgress": 12,
+      "lnrNumber": 36,
+      "lndOverdue": 13,
+      "lndInProgress": 23,
+      "averageResponceTime": "04:25"
+    },
+    "alarmStatus": {
+      "lightingAlarmNumber": 2,
+      "hvacAlarmNumber": 0,
+      "rcuAlarmNumber": 5,
+      "doorSystemAlarmNumber": 1,
+      "pmsAlarmNumber": 0,
+      "emergencyAlarmNumber": 3,
+      "lightingAckNumber": 1, 
+      "hvacAckNumber": 0, 
+      "rcuAckNumber": 3, 
+      "doorAckNumber": 1, 
+      "pmsAckNumber": 0, 
+      "emergencyAckNumber": 2
+    },
+    "hvacStatus": {
+      "hvacCoolingNumber": 50,
+      "hvacHeatingNumber": 48,
+      "hvacOffNumber": 2,
+      "odaSayisi": 100
+    },
+    
+      "sleepScore":{
+        "sleepSorePuan":3.5
+      },
+    "roomServices":{
+    "murNumber": 60,
+    "laundryNumber": 30,
+    "delayNumber": 10
+
+      }
+    
+  }
+  
