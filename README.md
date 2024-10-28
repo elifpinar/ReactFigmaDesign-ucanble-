@@ -1,3 +1,16 @@
+# Figma Design
+
+Bu proje için ekran görüntüleri:
+
+![Ekran Görüntüsü 1](src/components/screenshots/alarmstatus.PNG)
+![Ekran Görüntüsü 2](src/components/screenshots/dashboard.PNG)
+![Ekran Görüntüsü 3](src/components/screenshots/hvacstatus.PNG)
+![Ekran Görüntüsü 4](src/components/screenshots/occupancyrates.PNG)
+![Ekran Görüntüsü 5](src/components/screenshots/rooms.PNG)
+![Ekran Görüntüsü 6](src/components/screenshots/roomservicespie.PNG)
+![Ekran Görüntüsü 7](src/components/screenshots/servicerequests.PNG)
+![Ekran Görüntüsü 7](src/components/screenshots/sleepscore.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
