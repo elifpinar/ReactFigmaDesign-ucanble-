@@ -2,8 +2,9 @@
 
 Bu proje için ekran görüntüleri:
 
-![Ekran Görüntüsü 1](src/components/screenshots/alarmstatus.PNG)
 ![Ekran Görüntüsü 2](src/components/screenshots/dashboard.PNG)
+![Ekran Görüntüsü 1](src/components/screenshots/alarmstatus.PNG)
+
 ![Ekran Görüntüsü 3](src/components/screenshots/hvacstatus.PNG)
 ![Ekran Görüntüsü 4](src/components/screenshots/occupancyrates.PNG)
 ![Ekran Görüntüsü 5](src/components/screenshots/rooms.PNG)
