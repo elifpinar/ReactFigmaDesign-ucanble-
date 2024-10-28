@@ -33,6 +33,7 @@ function MainPage() {
         <Route path="dashboard" element={<Dashboard />} />
         <Route path="sleepscore" element={<SleepScore />} />
         <Route path="roomservicespie" element={<RoomServicesPie />} />
+        
 
       </Routes>
     </BrowserRouter>

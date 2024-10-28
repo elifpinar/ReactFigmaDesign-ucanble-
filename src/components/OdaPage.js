@@ -19,7 +19,7 @@ function RoomList({ rooms }) {
         <div>
 
 
-             <MainModal2 data={rooms} style ={{width: 1000, height: 1000,}}></MainModal2> 
+             <MainModal2 data={rooms} style ={{width: 100, height: 100,}}></MainModal2> 
 
 
         </div>
@@ -38,11 +38,12 @@ function OdaPage(props) {
 
 
             {(
-
+               <div>
                 <div>
                     <RoomList rooms={state} />
 
 
+                </div>
                 </div>
             )}
         </div>
